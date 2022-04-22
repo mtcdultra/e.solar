@@ -1,3 +1,5 @@
+** SOLAR APP **
+
 A little program to put in pratice the knowledge from my Conversion Renewable Energy class in Solar Energy, part of my
 Master degree in Sustainable Energy System. 
 
